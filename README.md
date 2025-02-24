@@ -16,28 +16,31 @@ I am a Cybersecurity engineer, passionate about DevSecOps, AI, and self-learning
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=redhat,bash,powershell,python,fastapi,golang,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redhat,bash,powershell,cpp,python,fastapi,golang,postgres,docker,aws,elasticsearch)](https://skillicons.dev)
 
-<!--+## 🌱 Currently Exploring
+## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Navigating through the world of React Router for seamless page transitions.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Django, a powerful Python web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
+- 🚀 Researching and developing Cloud Based AI-Driven Compliance Management Solution
+  - Researching and studying the gap between the struggle of aligning GRC principles and DevOps agility.
+  - Designing and developing an automated, scalable, and intelligent platform that continuously enforces GRC principles within the DevOps environment.
+  - Studying artificial intelligence algorithms and models.
 
  ## 🏆 Achievements
+- 🌟 ISO/IEC 27001 Information Security Associate™.
+- 🌟 IBM Security QRadar SIEM V7.5 Administration (C1000-156).
+- 🌟 IBM Security QRadar SIEM V7.4.3 Analyst (C1000-139).
+- 🌟 CompTIA Security+ (SY0 601).
+- 🌟 CCNA (200-301).
+- 🌟 AWS Cloud Practitioner (CLF-C01).
+- 🌟 Certified in Cybersecurity ISC2 (CC).
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Don't hesitate to connect with me 🚀
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
+<!--+ Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 +-->
 
