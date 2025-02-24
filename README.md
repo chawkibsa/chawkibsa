@@ -6,7 +6,7 @@ I am a Cybersecurity engineer, passionate about DevSecOps, AI, and self-learning
 
 ## 🚀 About Me
 
-- 📖 I hold a bachelor's degree in Computer Science and telecommunication at ISET'COM, Master degree in Computer Science at Tek-Up, and probably pursuing Master degree at Michigan Flint.
+- 📖 I hold a bachelor's degree in Computer Science and telecommunication at ISET'COM, Master degree in Computer Science at Tek-Up.
 - 📝 I write in-depth, long-form technical articles on Linkedin to share knowledge with the community.
 - 🌐 Proud member of being VICE President at ISC2 Local Chapter Tunisia in 2024.
 <!--+- 🔭 Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.+-->
