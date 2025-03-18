@@ -1,6 +1,6 @@
 # Hi, I'm Chawki! 👋
 
-I am a Cybersecurity engineer, passionate about DevSecOps, AI, and self-learning. My journey revolves research, hardening systems and designing security solutions with a strong focus on security compliance, automation and Cloud Security solutions.
+I am a Cybersecurity engineer, passionate about SecOps, AI, and self-learning. My journey revolves research, hardening systems and designing security solutions with a strong focus on security compliance, automation and Cloud Security solutions.
 
 ![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=chawkibsa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
